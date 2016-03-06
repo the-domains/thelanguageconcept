@@ -1,0 +1,28 @@
+name: TheLanguageConcept
+favicon: null
+layout_spectrum: 0.02182041690684855
+typography_spectrum: 0.9020324449520558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6781161983963102
+  lightness: 0.4623292344622314
+  saturation: 0.27299198298715055
+  rhythmicContrast: 0.2876331773586571
+purpose: []
