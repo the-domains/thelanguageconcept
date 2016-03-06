@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[TheLanguageConcept]]></title>
         <description><![CDATA[TheLanguageConcept]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thelanguageconcept/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:14:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 17:14:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thelanguageconcept/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LEARNING 3.0]]></title>
+            <description><![CDATA[<article><h1>LEARNING 3.0</h1><p>Face- to- Face, Blended & Virtual Learning  </p></article>]]></description>
+            <link>https://thegrid.ai/thelanguageconcept/learning-30/index.html</link>
+            <guid isPermaLink="false">00ade2eb-62b3-434a-8b8e-23d88b468b0d</guid>
+            <pubDate>Sun, 06 Mar 2016 17:14:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TheLanguageConcept introduces Learning 3.0.
 </p>]]></description>
-            <link>undefined3b309857-fc3f-44ac-9132-3ed73cf49bda/index.html</link>
+            <link>https://thegrid.ai/thelanguageconcept/3b309857-fc3f-44ac-9132-3ed73cf49bda/index.html</link>
             <guid isPermaLink="false">3b309857-fc3f-44ac-9132-3ed73cf49bda</guid>
             <pubDate>Sun, 06 Mar 2016 17:14:03 GMT</pubDate>
         </item>
