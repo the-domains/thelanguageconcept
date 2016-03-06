@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T18:08:37.906Z'
-dateModified: '2016-03-06T18:08:34.462Z'
+datePublished: '2016-03-06T18:25:53.488Z'
+dateModified: '2016-03-06T18:08:47.310Z'
 title: Face-to-Face
 author: []
 sourcePath: _posts/2016-03-06-face-to-face.md
